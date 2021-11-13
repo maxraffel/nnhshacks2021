@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/KermitTheDestroyah/nnhshacks2021/issues"
   },
-  "homepage": "https://github.com/KermitTheDestroyah/nnhshacks2021#readme"
+  "homepage": "https://github.com/KermitTheDestroyah/nnhshacks2021#readme",
+  "dependencies": {
+    "puppeteer": "^11.0.0"
+  }
 }
