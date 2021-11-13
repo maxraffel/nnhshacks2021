@@ -1,0 +1,27 @@
+body {
+    font-family: "Varela Round";
+}
+
+.weekdayNav {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 2px solid black;
+    padding: 20px;
+}
+.weekdayNav li {
+    font-size: 20px;
+}
+
+.foods {
+    display: flex;
+    flex-flow: column;
+    list-style-type: none;
+    align-items: space-around;
+    border-right: 2px solid black;
+    padding: 20px;
+    height: calc(100vh - 80px);
+    width: 60px;
+    margin: none;
+}
