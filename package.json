@@ -1,0 +1,22 @@
+{
+  "name": "nnhshacks2021",
+  "version": "1.0.0",
+  "description": "NNHS Hackathon project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KermitTheDestroyah/nnhshacks2021.git"
+  },
+  "keywords": [
+    "drinky"
+  ],
+  "author": "H24",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KermitTheDestroyah/nnhshacks2021/issues"
+  },
+  "homepage": "https://github.com/KermitTheDestroyah/nnhshacks2021#readme"
+}
